@@ -1,6 +1,17 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# --------------------------------------------------------
+""" This file was converted  'jupyter nb to python' from Exercise-6-problems-1-3.ipynb using the following commands
+steps:
+1. be sure that nbcovert is installed
+2. in anaconda console type: jupyter nbconvert .\Exercise-6-problems-1-3.ipynb --to script
+note: to scipt is to convert to python file, review [https://nbconvert.readthedocs.io/en/latest/]
+
+"""
+
+
+
 # # Exercise 6 - Data analysis with Pandas
 #
 # In this week's exercise we will continue developing our skills using Pandas to analyze climate data.
