@@ -1,8 +1,9 @@
 
 
 def fahrToCelsius(temp_fahrenheit):
-    convertedTemp = (temp_fahrenheit -32)/1.8
+    convertedTemp = (temp_fahrenheit - 32) / 1.8
     return convertedTemp
+
 
 def tempClassifier(tempCelsius):
     """
@@ -28,5 +29,5 @@ def tempClassifier(tempCelsius):
     elif tempCelsius >= 2 and tempCelsius < 15:
         criteria = 2
     else:
-         criteria = 3
+        criteria = 3
     return criteria
